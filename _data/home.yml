@@ -53,12 +53,8 @@ team:
       role: "Email: directadvisoria@gmail.com"
       img: img/about/22a.png
       social-buttons:
-        - icon: fa fa-twitter
-          url: "#"
-        - icon: fa fa-facebook
-          url: "#"
-        - icon: fa fa-linkedin
-          url: "#"
+        - icon: fa fa-instagram
+          url: "https://www.instagram.com/directadvisory/"
 
     - name: 
       role: 
