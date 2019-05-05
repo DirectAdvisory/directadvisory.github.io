@@ -50,7 +50,7 @@ team:
 
         
     - name: Direct
-      role: "Email:"
+      role: "Email: directadvisoria@gmail.com"
       img: img/about/22a.png
       social-buttons:
         - icon: fa fa-twitter
