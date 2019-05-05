@@ -9,7 +9,7 @@ services:
   service:
     - icon: fa fa-cart-arrow-down
       heading: Artes prontas
-      text: Vendemos artes prontas, já fixadas.
+      text: Vendemos artes prontas, fixas.
     - icon: fa fa-cart-plus
       heading: Artes personalizadas
       text: Personalizamos artes do jeito que você encomendar
