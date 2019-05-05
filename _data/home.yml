@@ -1,0 +1,66 @@
+intro:
+  lead-in: "Hyped Content"
+  heading: Direct Advisory - Art
+  btn: Ver mais
+
+services:
+  heading: Serviços
+  subheading: Prestamos o seguinte serviço.
+  service:
+    - icon: fa fa-cart-arrow-down
+      heading: Artes prontas
+      text: Vendemos artes prontas, já fixadas.
+    - icon: fa fa-cart-plus
+      heading: Artes personalizadas
+      text: Personalizamos artes do jeito que você encomendar
+    - icon: fa fa-pause-circle-o   
+      heading: Artes animadas
+      text: Vendemos artes animadas ou seja em movimento (mp4)
+
+portfolio:
+  heading: Portfolio
+  subheading:
+
+about:
+  heading: Sobre
+  subheading:
+  timeline:
+    - image: img/about/1.png
+      date: 2018-2019
+      title: Direct Advisory
+      text: Direct Advisory, é uma empresa em ascensão, que oferece vários serviços, sendo um deles, a venda de arte.
+    - image: img/about/1.png
+      date: 2018-2019
+      title: Como comprar?
+      text: Para encomendar, escolha a arte do seu agrado, e nos requisite por e-mail ou instagram
+
+
+  end1: Faça 
+  end2: Parte dessa
+  end3: História!
+
+team:
+  heading: Contato
+  subheading: Solicite suas artes pelo e-mail abaixo.
+  members:
+    - name: 
+      role: 
+      img: 
+      social-buttons:
+
+        
+    - name: Direct
+      role: "Email:"
+      img: img/about/22a.png
+      social-buttons:
+        - icon: fa fa-twitter
+          url: "#"
+        - icon: fa fa-facebook
+          url: "#"
+        - icon: fa fa-linkedin
+          url: "#"
+
+    - name: 
+      role: 
+      img: 
+      social-buttons:

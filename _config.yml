@@ -1,0 +1,12 @@
+title: Direct Advisory
+description: ''
+author: ''
+url: "https://directadvisory.github.io"
+
+sass:
+  style: compressed
+
+assets_path: '' 
+
+collections:
+  projects:
